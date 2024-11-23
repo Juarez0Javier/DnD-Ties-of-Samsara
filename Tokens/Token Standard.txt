@@ -1,4 +1,5 @@
 Transparent Tokens: Use a texture beackdrop, full size only for large tokens, different sizes require multiplication.
+Tiny Creatures: Use a 0.65 Scale on Token Stamp
 Borders:
 	- Unique: Type: Standard - Grey
 	                 Tint: ABE7E5
