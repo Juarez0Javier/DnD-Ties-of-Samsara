@@ -1,0 +1,6 @@
+Transparent Tokens: Use a texture beackdrop, full size only for large tokens, different sizes require multiplication.
+Borders:
+	- Unique: Type: Standard - Grey
+	                 Tint: ABE7E5
+	- Generic: Type: Standars
+		Tint: CD16DB
