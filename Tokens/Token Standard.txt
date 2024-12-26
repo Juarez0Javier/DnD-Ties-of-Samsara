@@ -1,7 +1,9 @@
 Transparent Tokens: Use a texture beackdrop, full size only for large tokens, different sizes require multiplication.
 Tiny Creatures: Use a 0.65 Scale on Token Stamp
 Borders:
-	- Unique: Type: Standard - Grey
+	- Unique PCs: Type: Standard - Grey
+	                 Tint: FFB400
+	- Unique NPCs: Type: Standard - Grey
 	                 Tint: ABE7E5
-	- Generic: Type: Standars
-		Tint: CD16DB
+	- Generic: Type: Standard - Grey
+		Tint: CD7F32
