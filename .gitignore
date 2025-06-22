@@ -1,6 +1,7 @@
 #Ignoring Stuff#
 Assets/
 Assorted/
+Tokens/#Raw/
 *.zip
 *.psd
 *.sai2
