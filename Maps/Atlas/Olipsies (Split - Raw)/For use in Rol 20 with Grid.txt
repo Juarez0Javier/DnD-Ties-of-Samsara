@@ -1,0 +1,2 @@
+Height: 23 Squres
+Width: 34 Squares
