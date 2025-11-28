@@ -1,0 +1,4 @@
+Height: 23 Squres
+Width: 34 Squares
+
+Each cell in a Map is 70 * 0.6 Pixels
