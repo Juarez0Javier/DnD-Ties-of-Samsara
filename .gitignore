@@ -1,7 +1,10 @@
 #Ignoring Stuff#
-Assets/
-Assorted/
-Tokens/#Raw/
+Otros Recursos/
+Tokens/Tokens Raw/
+
 *.zip
+*.json
+*.map
+*.ds
 *.psd
-*.sai2
+*.xcf
